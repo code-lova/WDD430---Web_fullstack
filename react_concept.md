@@ -40,9 +40,9 @@ const greeting = <h1>Hello, world!</h1>;
 ## 5. What is the difference between props and state?
 
 
-Definition |
-    Props: Short for “properties”, passed from parent to child components 
-    State: Local data storage managed within the component 
+## Definition 
+**Props:** Short for “properties”, passed from parent to child components 
+**State:** Local data storage managed within the component 
 
 Mutability |
     Props:  **Read-only** – cannot be changed by the receiving component 
